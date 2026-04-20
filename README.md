@@ -45,5 +45,5 @@ Focused on building a solid backend foundation, understanding data modeling, API
 ---
 
 ## 📫 Let's connect
-- GitHub: https://github.com/KauaSimplicioDEV
+- GitHub: https://github.com/KSimplicioDEV
 - LinkedIn: https://linkedin.com/in/kauã-simplicio-0220b51b4
